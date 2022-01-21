@@ -724,11 +724,10 @@ margin-bottom:5px;
     justify-content: center;
      
   }
-  #myvideo{
-    width: 1200px;
-    padding-left: 130px;
-    border: 2px solid white;
+  #googlemetitle{
+    width: 400px;
   }
+
   #droneh1{
     /* justify-content: center; */
     /* padding-left: 550px; */
