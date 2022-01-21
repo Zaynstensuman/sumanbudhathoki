@@ -696,7 +696,7 @@ margin-bottom:5px;
 
 
 /* media query for phones */
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 400px) {
 
   @import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,300&display=swap");
   * {
